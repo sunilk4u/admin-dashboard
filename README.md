@@ -7,5 +7,5 @@ This is an Admin Dashboard UI created using plain HTML and CSS.
 * Understand developer console.
 
 ## Screenshots
-![admin-dashboard](./screenshots)
+![admin-dashboard](./screenshots/ss1.jpg)
 ![admin-dashboard-copyright](./screenshots/ss2.jpg)
